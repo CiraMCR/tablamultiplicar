@@ -9,8 +9,7 @@ function App() {
 
 
       > master
-        <
-        a > holaaaaaaaaa < /a> <
+         <
         header > hola < /header> <
         header className = "App-header" >
 
